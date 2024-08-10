@@ -35,8 +35,7 @@ Para ejecutar este proyecto, necesitas tener instalados los siguientes paquetes 
 
 ## Resultados
 
-Los resultados de este análisis permiten obtener una visión clara de las diferencias salariales en función de diversas variables como la región, el género, el rol laboral y el nivel educativo. Los resultados completos de la encuesta pueden consultarse en el siguiente enlace:
-
+Los resultados de este análisis permiten obtener una visión clara de las diferencias salariales en función de diversas variables como la región, el género, el rol laboral y el nivel educativo. 
 
 ## Conclusiones
 
